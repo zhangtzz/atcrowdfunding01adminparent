@@ -1,0 +1,5 @@
+# 项目排除路径
+/atcrowdfunding02adminwebui/target/
+/atcrowdfunding03admincomponent/target/
+/atcrowdfunding04adminentity/target/
+/out/
